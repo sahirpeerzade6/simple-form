@@ -1,0 +1,32 @@
+
+header,footer{
+	background-color: lightgrey;
+	border: solid 1px black;
+	/*font-family:sans-serif,Arial,Helvetica,segoe UI;		*/
+}
+
+
+body{
+	font-family:sans-serif,Arial,Helvetica,segoe UI;
+	font-size: 14PX;
+}
+body,html{
+	margin:0;
+	padding:0 ;
+	background-color: wheat;
+}
+a{
+    color: #020080;
+ }
+ a:hover{
+     color:rgb(245, 35, 35);
+ }
+ .btn:hover{
+     background:#444;
+ }   
+ .error{
+     background:orangered;
+     color: #fff;
+     padding: 5px;
+     margin: 5px;
+ }
